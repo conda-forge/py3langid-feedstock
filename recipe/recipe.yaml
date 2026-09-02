@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.3.0"
+  version: "0.4.0"
 
 package:
   name: py3langid
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/py3langid/py3langid-${{ version }}.tar.gz
-  sha256: 0a875a031a58aaf9dbda7bb8285fd75e801a7bd276216ffabe037901d4b449ec
+  sha256: 5924159039b5cc282c2edc10a7ea9363b2099834a0e99ed8d5bea3cc435d7871
 
 build:
   number: 0
